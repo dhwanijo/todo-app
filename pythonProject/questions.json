@@ -1,0 +1,6 @@
+[{"question_text": "What is the capital of India?",
+"alternatives": ["Delhi", "Maharashtra", "Manipur", "Goa"],
+"correct_answer": 1},
+{"question_text": "What are people living in Mumbai are called?",
+"alternatives": ["Mangalorians", "Mumbaikars", "Dilwale", "Sobo People" ],
+"correct_answer": 2}]
