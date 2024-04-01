@@ -1,5 +1,4 @@
 study python
 fix the bell
 make soup
-make pizza
 read new book

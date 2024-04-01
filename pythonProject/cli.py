@@ -38,7 +38,9 @@ while True:
         except ValueError:
             print("Your command is invalid. You need to add number")
             continue
-
+        except IndexError:
+            print("Your todo is not available on the list to edit.")
+            continue
     elif user_action.startswith('complete'):
         try:
             number = int(user_action[9:])
