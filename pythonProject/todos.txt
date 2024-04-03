@@ -2,3 +2,6 @@ study python
 fix the bell
 make soup
 read new book
+Listen to a song
+Soup
+Eat pasta
