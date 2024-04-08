@@ -38,7 +38,6 @@ while True:
         case "todolist":
             window['todo'].update(value=value['todolist'][0])
 
-
         case sg.WIN_CLOSED:
             break
 
