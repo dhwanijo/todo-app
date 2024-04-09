@@ -8,7 +8,7 @@ temp = temperature_type(8)
 print(temp)
 
 def cal_string(str_arg):
-    if len(str_arg) >= 8
+    if len(str_arg) >= 8:
         return "True"
     else:
         return "False"
