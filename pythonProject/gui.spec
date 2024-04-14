@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['gui.py'],
+    ['/home/dhwani/Desktop/Python/app1/pythonProject/gui.py'],
     pathex=[],
     binaries=[],
     datas=[],
@@ -12,6 +12,7 @@ a = Analysis(
     runtime_hooks=[],
     excludes=[],
     noarchive=False,
+    optimize=0,
 )
 pyz = PYZ(a.pure)
 

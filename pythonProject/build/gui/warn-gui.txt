@@ -19,7 +19,7 @@ excluded module named _frozen_importlib - imported by importlib (optional), impo
 missing module named pep517 - imported by importlib.metadata (delayed)
 missing module named org - imported by pickle (optional)
 missing module named winreg - imported by importlib._bootstrap_external (conditional), platform (delayed, optional), mimetypes (optional), urllib.request (delayed, conditional, optional)
-missing module named nt - imported by shutil (conditional), importlib._bootstrap_external (conditional), ntpath (optional), os (delayed, conditional, optional), ctypes (delayed, conditional)
+missing module named nt - imported by os (delayed, conditional, optional), ntpath (optional), shutil (conditional), importlib._bootstrap_external (conditional), ctypes (delayed, conditional)
 missing module named 'org.python' - imported by copy (optional), xml.sax (delayed, conditional)
 missing module named _scproxy - imported by urllib.request (conditional)
 missing module named msvcrt - imported by subprocess (optional), getpass (optional), multiprocessing.spawn (delayed, conditional), multiprocessing.popen_spawn_win32 (top-level), asyncio.windows_events (top-level), asyncio.windows_utils (top-level)
@@ -38,4 +38,3 @@ missing module named PIL - imported by PySimpleGUI.PySimpleGUI (delayed, conditi
 missing module named vms_lib - imported by platform (delayed, optional)
 missing module named java - imported by platform (delayed)
 missing module named _winreg - imported by platform (delayed, optional)
-missing module named functions - imported by /home/dhwani/Desktop/Python/app1/pythonProject/gui.py (top-level)
